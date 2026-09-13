@@ -1,0 +1,550 @@
+{
+  "generator": "lumicorepro-design-engine",
+  "project": "food-restaurant-001",
+  "style": "bento_grid",
+  "generated_at": "2026-09-13T08:49:10Z",
+  "license": "All assets are self-generated original vector artwork (public-domain equivalent). No stock, no scraped, and no copyrighted material.",
+  "count": 27,
+  "assets": [
+    {
+      "file": "assets/bento_grid/hero/hero-1.svg",
+      "category": "hero",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Hero",
+      "prompt": "Abstract hero for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/hero/hero-2.svg",
+      "category": "hero",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Hero",
+      "prompt": "Abstract hero for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/hero/hero-3.svg",
+      "category": "hero",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Hero",
+      "prompt": "Abstract hero for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/hero/hero-4.svg",
+      "category": "hero",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Hero",
+      "prompt": "Abstract hero for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-1.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 1",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-2.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 2",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-3.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 3",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-4.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 4",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-5.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 5",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-6.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 6",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-7.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 7",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-8.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 8",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-9.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 9",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-10.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 10",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-11.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 11",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/icons/icon-12.svg",
+      "category": "icons",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Icons Icon 12",
+      "prompt": "Abstract icons for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/backgrounds/bg-1.svg",
+      "category": "backgrounds",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Backgrounds Background 1",
+      "prompt": "Abstract backgrounds for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/backgrounds/bg-2.svg",
+      "category": "backgrounds",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Backgrounds Background 2",
+      "prompt": "Abstract backgrounds for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/backgrounds/bg-3.svg",
+      "category": "backgrounds",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Backgrounds Background 3",
+      "prompt": "Abstract backgrounds for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/illustrations/illustration-1.svg",
+      "category": "illustrations",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Illustrations Illustration 1",
+      "prompt": "Abstract illustrations for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/illustrations/illustration-2.svg",
+      "category": "illustrations",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Illustrations Illustration 2",
+      "prompt": "Abstract illustrations for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/illustrations/illustration-3.svg",
+      "category": "illustrations",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Illustrations Illustration 3",
+      "prompt": "Abstract illustrations for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/illustrations/illustration-4.svg",
+      "category": "illustrations",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Illustrations Illustration 4",
+      "prompt": "Abstract illustrations for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/illustrations/illustration-5.svg",
+      "category": "illustrations",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Illustrations Illustration 5",
+      "prompt": "Abstract illustrations for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/mockups/mockup-1.svg",
+      "category": "mockups",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Mockups UI Mockup 1",
+      "prompt": "Abstract mockups for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/mockups/mockup-2.svg",
+      "category": "mockups",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Mockups UI Mockup 2",
+      "prompt": "Abstract mockups for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    },
+    {
+      "file": "assets/bento_grid/mockups/mockup-3.svg",
+      "category": "mockups",
+      "style": "bento_grid",
+      "title": "Food Restaurant 001 Mockups UI Mockup 3",
+      "prompt": "Abstract mockups for a Bento Grid UI styled website; palette #6366f1, #ec4899, #22d3ee, #f8fafc, #ffffff, #eef2ff, #0f172a, #64748b, #e2e8f0; rounded grid cards, bento-box layout, feature-per-card.",
+      "license": "Self-generated original vector art - free for commercial use",
+      "palette": [
+        "#6366f1",
+        "#ec4899",
+        "#22d3ee",
+        "#f8fafc",
+        "#ffffff",
+        "#eef2ff",
+        "#0f172a",
+        "#64748b",
+        "#e2e8f0"
+      ],
+      "seed": 2630430763
+    }
+  ]
+}
