@@ -1,0 +1,16 @@
+# Render Blueprint
+services:
+  - type: web
+    name: food-restaurant-001-frontend
+    env: static
+    buildCommand: npm ci && npm run build
+  - type: web
+    name: food-restaurant-001-backend
+    env: node
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /api/health
+
+databases:
+  - name: food-restaurant-001-db
+    databaseName: food_restaurant_001

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Food Restaurant 001",
+  "url": "https://www.food-restaurant-001.com",
+  "description": "Brand-new menu, warm ambience, and tables that fill fast. Reserve now.",
+  "foundingDate": "2026",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "availableLanguage": ["English", "Urdu"]
+  },
+  "sameAs": [
+    "https://www.facebook.com/food-restaurant-001",
+    "https://www.instagram.com/food-restaurant-001",
+    "https://twitter.com/food-restaurant-001"
+  ]
+}

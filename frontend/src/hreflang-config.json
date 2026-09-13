@@ -1,0 +1,15 @@
+{
+  "base_url": "https://food-restaurant-001.com",
+  "region": "MENA",
+  "hreflangs": [
+    {
+      "lang": "ar",
+      "code": "ar"
+    },
+    {
+      "lang": "en",
+      "code": "en"
+    }
+  ],
+  "pages": ["", "products", "cart", "checkout", "about", "contact", "blog", "faq"]
+}
