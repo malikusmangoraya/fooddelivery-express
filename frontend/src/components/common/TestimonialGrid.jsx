@@ -9,7 +9,7 @@ export default function TestimonialGrid({
       name: 'Sarah Jenkins',
       role: 'Founder at CloudScale AI',
       avatar:
-        'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80',
+        'assets/avatars/avatar-1.jpg',
       rating: 5,
       content:
         'This template saved us at least 6 weeks of engineering. The Lemon Squeezy checkout integration worked out of the box and our launch did $18k in week one.',
@@ -18,7 +18,7 @@ export default function TestimonialGrid({
       name: 'Marcus Vance',
       role: 'Principal Engineer at DevVenture',
       avatar:
-        'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80',
+        'assets/avatars/avatar-2.jpg',
       rating: 5,
       content:
         'The cleanest React 19 codebase I have purchased on any digital marketplace. Zero build warnings, flawless Tailwind styling, and rock-solid performance.',
@@ -27,7 +27,7 @@ export default function TestimonialGrid({
       name: 'Elena Rostova',
       role: 'Head of Product at FinNext',
       avatar:
-        'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80',
+        'assets/avatars/avatar-3.jpg',
       rating: 5,
       content:
         'The multi-currency support and responsive design are simply unmatched. Easily worth 10x the price for any serious startup team.',

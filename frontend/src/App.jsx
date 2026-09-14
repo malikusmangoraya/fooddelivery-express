@@ -32,7 +32,7 @@ export default function AppWithProviders() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname.split("/")[1] ? "/" + window.location.pathname.split("/")[1] : "/"}>
       <MotionCanvas />
       {/* LUMICORE_MATRIX */}
       <BuyTemplateBanner templateName="food-restaurant-001" price="$49" />

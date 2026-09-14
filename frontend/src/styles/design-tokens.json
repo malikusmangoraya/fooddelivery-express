@@ -1,54 +1,24 @@
 {
-  "style": "bento_grid",
-  "name": "Bento Grid UI",
-  "dna": "Rounded grid cards, bento-box layout, feature-per-card.",
-  "project_name": "food-restaurant-001",
+  "style": "consulting_pro",
+  "name": "Consulting Professional",
+  "project_name": "fooddelivery-express",
   "palette": {
-    "primary": "#6366f1",
-    "secondary": "#ec4899",
-    "accent": "#22d3ee",
-    "bg": "#f8fafc",
-    "card": "#ffffff",
-    "surface": "#eef2ff",
-    "text": "#0f172a",
+    "primary": "#dc2626",
+    "accent": "#f59e0b",
+    "heading": "#1f2937",
+    "navBg": "#ffffff",
+    "footerBg": "#1f2937",
+    "text": "#1e293b",
     "muted": "#64748b",
-    "border": "#e2e8f0"
-  },
-  "palette_hsl": {
-    "primary": "239 83.5% 66.7%",
-    "secondary": "330 81.2% 60.4%",
-    "accent": "188 85.7% 53.3%",
-    "bg": "210 40.0% 98.0%",
-    "card": "0 0.0% 100.0%",
-    "surface": "226 100.0% 96.7%",
-    "text": "222 47.4% 11.2%",
-    "muted": "215 16.3% 46.9%",
-    "border": "214 31.8% 91.4%"
+    "card": "#ffffff",
+    "surface": "#f8fafc",
+    "border": "#e2e8f0",
+    "bg": "#ffffff"
   },
   "typography": {
-    "display": "Outfit",
-    "sans": "Inter",
-    "mono": "JetBrains Mono",
-    "scale": [12, 14, 16, 18, 24, 30, 36, 48, 64]
+    "display": "Poppins",
+    "sans": "Roboto",
+    "mono": "JetBrains Mono"
   },
-  "radius": {
-    "card": "24px",
-    "button": "12px"
-  },
-  "shadow": {
-    "card": "0 10px 30px rgba(15,23,42,0.08)",
-    "button": "0 4px 12px rgba(99,102,241,0.2)"
-  },
-  "border": {
-    "card": "1px solid #e2e8f0",
-    "button": "0"
-  },
-  "effects": {
-    "blur": "0px",
-    "glow": "0 0 20px rgba(99,102,241,0.15)"
-  },
-  "weight": "medium",
-  "composition": "bento",
-  "generated_by": "lumicorepro-design-engine",
-  "timestamp": "2026-09-13T08:49:10Z"
+  "theme": "light"
 }
